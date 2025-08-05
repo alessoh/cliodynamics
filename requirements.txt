@@ -1,0 +1,40 @@
+# Core dependencies
+python-dotenv==1.0.1
+openai==1.35.3
+anthropic==0.31.0
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+plotly==5.22.0
+dash==2.17.1
+scipy==1.13.1
+
+# Data processing
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+
+# Visualization and reporting
+seaborn==0.13.2
+reportlab==4.2.0
+Pillow==10.3.0
+
+# Web dashboard
+flask==3.0.3
+dash-bootstrap-components==1.6.0
+
+# Utilities
+tqdm==4.66.4
+colorama==0.4.6
+tabulate==0.9.0
+
+# Data storage
+sqlite3-to-mysql==2.1.7
+sqlalchemy==2.0.30
+
+# Statistical analysis
+statsmodels==0.14.2
+scikit-learn==1.5.0
+
+# Date handling
+python-dateutil==2.9.0.post0
